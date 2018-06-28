@@ -1,3 +1,5 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/bpms-process-designer)
+
 JBoss BPM Suite Process Designer Demo Quickstart Guide
 ======================================================
 
